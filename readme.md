@@ -34,5 +34,4 @@ Develop an AI-driven question generator that:
 
 ---
 
-## 🧱 System Architecture
 
