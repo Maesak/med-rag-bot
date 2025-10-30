@@ -11,7 +11,6 @@ It is designed as part of the **LLMOps & AIOps Bootcamp**, showcasing how to **b
 ## 🧩 Project Objective
 Develop an AI-driven question generator that:
 - Takes **user topic input**
-- Generates **MCQ / Fill-in-the-blank questions**
 - Evaluates user responses
 - Stores results and analytics
 - Deployed using **CI/CD pipelines, containerization, orchestration**, and **cloud infrastructure**
