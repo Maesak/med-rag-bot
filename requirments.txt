@@ -1,8 +1,4 @@
 huggingface-hub
-faiss-cpu
 langchain
-langchain_huggingface
 pypdf
-flask
-docker
 python-dotenv
